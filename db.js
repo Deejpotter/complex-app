@@ -1,3 +1,5 @@
+/* This file handles all of the data */
+
 const mongodb = require("mongodb")
 const dotenv = require("dotenv")
 dotenv.config()
