@@ -1,4 +1,4 @@
-/* This file handles all of the data */
+/* Connects to mongoDB and */
 
 const mongodb = require("mongodb")
 const dotenv = require("dotenv")
